@@ -150,7 +150,7 @@
     left: calc(50% - 87.5px);
     width: 175px;
     height: 31.2px;
-    object-fit: cover;
+/*     object-fit: cover; */
 }
 .dhiyoyo {
     width: 175px;
